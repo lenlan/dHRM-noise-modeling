@@ -1,1 +1,2 @@
-# dHRM
+Supporting data for:
+Lennart Langouche et al., Data-driven noise modeling of digital DNA melting analysis enables prediction of sequence discriminating power, Bioinformatics, Volume 36, Issue 22-23, December 2020, Pages 5337–5343, https://doi.org/10.1093/bioinformatics/btaa1053
